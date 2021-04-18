@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "ZeroHouse Free Icon Set!",
   "scripts": {
-    "optimize": "node builds/svg-optimize.js"
+    "optimize": "node build/svg-optimize.js"
   },
   "repository": {
     "type": "git",
