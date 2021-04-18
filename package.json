@@ -1,0 +1,23 @@
+{
+  "name": "zerohouse-icons",
+  "version": "1.0.0",
+  "description": "ZeroHouse Free Icon Set!",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Team-ZeroHouse/zerohouse-icons.git"
+  },
+  "keywords": [
+    "zerohouse",
+    "icon",
+    "svg"
+  ],
+  "author": "ZeroHouse",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Team-ZeroHouse/zerohouse-icons/issues"
+  },
+  "homepage": "https://github.com/Team-ZeroHouse/zerohouse-icons#readme"
+}
