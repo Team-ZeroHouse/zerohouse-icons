@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "ZeroHouse Free Icon Set!",
   "scripts": {
-    "optimize": "node build/svg-optimize.js"
+    "optimize": "node build/svg-optimize.js",
+    "icons": "fantasticon"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,7 @@
   "homepage": "https://github.com/Team-ZeroHouse/zerohouse-icons#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.6",
+    "fantasticon": "^1.1.3",
     "svgo": "^2.3.0"
   }
 }
