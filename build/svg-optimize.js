@@ -39,7 +39,7 @@ async function processFile(file, config)
   for (const [attribute, value] of Object.entries(svgAttributes))
   {
     $svgElement.removeAttr(attribute);
-    $svgElement.attr(attribute, attribute === 'class' ? `bi bi-${basename}` : value);
+    $svgElement.attr(attribute, attribute === 'class' ? `zi zi-${basename}` : value);
   }
 
   const resultSvg = $svgElement.toString().replace(/\r\n?/g, '\n');
