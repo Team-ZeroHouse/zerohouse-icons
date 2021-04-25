@@ -1,6 +1,7 @@
 # ZeroHouse Icons
 
-제로하우스 아이콘!
+ZeroHouse Free icon set :)<br/>
+design by. <a href="https://nalong.studio/" target="_blank">nalong</a>
 
 ![ZeroUI Logo](.github/zeroui.png)
 
